@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" width="1440" height="560" preserveAspectRatio="none" viewBox="0 0 1440 560">
+  <g mask="url(&quot;#SvgjsMask1045&quot;)" fill="none">
+    <path d="M30 560L590 0L725 0L165 560z" fill="url(&quot;#SvgjsLinearGradient1046&quot;)"></path>
+    <path d="M350.8 560L910.8 0L1144.8 0L584.8 560z" fill="url(&quot;#SvgjsLinearGradient1046&quot;)"></path>
+    <path d="M654.6 560L1214.6 0L1499.6 0L939.6 560z" fill="url(&quot;#SvgjsLinearGradient1046&quot;)"></path>
+    <path d="M1392 560L832 0L473.5 0L1033.5 560z" fill="url(&quot;#SvgjsLinearGradient1047&quot;)"></path>
+    <path d="M1120.2 560L560.2 0L464.20000000000005 0L1024.2 560z" fill="url(&quot;#SvgjsLinearGradient1047&quot;)"></path>
+    <path d="M784.4 560L224.39999999999998 0L-215.10000000000002 0L344.9 560z" fill="url(&quot;#SvgjsLinearGradient1047&quot;)"></path>
+    <path d="M1021.4297802201288 560L1440 141.42978022012886L1440 560z" fill="url(&quot;#SvgjsLinearGradient1046&quot;)"></path>
+    <path d="M0 560L418.57021977987114 560L 0 141.42978022012886z" fill="url(&quot;#SvgjsLinearGradient1047&quot;)"></path>
+  </g>
+  <defs>
+    <mask id="SvgjsMask1045">
+      <rect width="1440" height="560" fill="#ffffff"></rect>
+    </mask>
+    <linearGradient x1="0%" y1="100%" x2="100%" y2="0%" id="SvgjsLinearGradient1046">
+      <stop stop-color="rgba(233, 255, 0, 0.4)" offset="0"></stop>
+      <stop stop-opacity="0" stop-color="rgba(233, 255, 0, 0.4)" offset="0.66"></stop>
+    </linearGradient>
+    <linearGradient x1="100%" y1="100%" x2="0%" y2="0%" id="SvgjsLinearGradient1047">
+      <stop stop-color="rgba(233, 255, 0, 0.4)" offset="0"></stop>
+      <stop stop-opacity="0" stop-color="rgba(233, 255, 0, 0.4)" offset="0.66"></stop>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="212" height="211" viewBox="0 -10 212 211"><path fill="none" d="M0 0h212v211H0z"/><path d="M39.711 149.5H201.4m-161.689-19H201.4m-161.689-18H201.4m-161.689-18H201.4m-161.689-18H201.4m-161.689-19H201.4m-161.689-18H201.4m-161.689-18H201.4m-161.9-.4v127.753M72.5 21.1v127.753m32-127.753v127.753m32-127.753v127.753m33-127.753v127.753m32-127.753v127.753" fill="none" stroke="#E0E6F1" stroke-dasharray="4,2"/><path d="M39.5 148.853V21.1" fill="none" stroke="#6E7079" stroke-linecap="round"/><text dominant-baseline="central" text-anchor="middle" style="font-size:12px" y="-6" transform="translate(39.711 6.1)" fill="#6E7079">电流
+  </text><path d="M39.711 149.5H201.4" fill="none" stroke="#6E7079" stroke-linecap="round"/><text dominant-baseline="central" text-anchor="middle" style="font-size:12px" y="6" transform="translate(120.556 170.853)" fill="#6E7079">电压
+  </text><path d="M39.711 149.5h-5m5-19h-5m5-18h-5m5-18h-5m5-18h-5m5-19h-5m5-18h-5m5-18h-5M39.5 148.853v5m33-5v5m32-5v5m32-5v5m33-5v5m32-5v5" fill="none" stroke="#6E7079"/><text dominant-baseline="central" text-anchor="end" style="font-size:12px" transform="translate(31.711 148.853)" fill="#6E7079">0
+  </text><text dominant-baseline="central" text-anchor="end" style="font-size:12px" transform="translate(31.711 130.603)" fill="#6E7079">30
+  </text><text dominant-baseline="central" text-anchor="end" style="font-size:12px" transform="translate(31.711 112.352)" fill="#6E7079">60
+  </text><text dominant-baseline="central" text-anchor="end" style="font-size:12px" transform="translate(31.711 94.102)" fill="#6E7079">90
+  </text><text dominant-baseline="central" text-anchor="end" style="font-size:12px" transform="translate(31.711 75.851)" fill="#6E7079">120
+  </text><text dominant-baseline="central" text-anchor="end" style="font-size:12px" transform="translate(31.711 57.6)" fill="#6E7079">150
+  </text><text dominant-baseline="central" text-anchor="end" style="font-size:12px" transform="translate(31.711 39.35)" fill="#6E7079">180
+  </text><text dominant-baseline="central" text-anchor="end" style="font-size:12px" transform="translate(31.711 21.1)" fill="#6E7079">210
+  </text><text dominant-baseline="central" text-anchor="middle" style="font-size:12px" transform="rotate(-20 476.009 -32.212)" fill="#6E7079">0
+  </text><text dominant-baseline="central" text-anchor="middle" style="font-size:12px" transform="rotate(-20 492.173 -123.918)" fill="#6E7079">20
+  </text><text dominant-baseline="central" text-anchor="middle" style="font-size:12px" transform="rotate(-20 508.337 -215.623)" fill="#6E7079">40
+  </text><text dominant-baseline="central" text-anchor="middle" style="font-size:12px" transform="rotate(-20 524.502 -307.329)" fill="#6E7079">60
+  </text><text dominant-baseline="central" text-anchor="middle" style="font-size:12px" transform="rotate(-20 540.666 -399.035)" fill="#6E7079">80
+  </text><text dominant-baseline="central" text-anchor="middle" style="font-size:12px" transform="rotate(-20 556.83 -490.74)" fill="#6E7079">100
+  </text><g clip-path="url(#a)"><path d="m59.114 132.396 21.02-15.577 40.422-29.957L201.4 26.947" fill="none" stroke="#91CC75" stroke-width="2" stroke-linejoin="bevel"/></g><text dominant-baseline="central" text-anchor="middle" style="font-size:16px" xml:space="preserve" y="-8" transform="translate(201.4 21.897)" fill="#333" stroke="#FFF" stroke-width="2" stroke-miterlimit="2">y = 1.97x + 3.41</text><path d="M31.36 182h149.28v24H31.36Z" fill="none"/><text dominant-baseline="central" style="font-size:12px" x="30" y="7" transform="translate(30.86 187)" fill="#333">电压-电流
+  </text><path d="M125.05 194h25" stroke="#91cc75" stroke-width="2" stroke-miterlimit="10"/><text dominant-baseline="central" style="font-size:12px" x="30" y="7" transform="translate(125.05 187)" fill="#333">line
+  </text><defs><clipPath id="a"><path d="M38 20.1h164v129.753H38Z"/></clipPath></defs></svg>
